@@ -3,4 +3,4 @@
 Anna Vrbaski
 101182246
 
-includes: sql files (ddl.sql, commands.sql), project pdf (ER model, db schema, 2NF/3NF), video
+includes: sql files (ddl.sql, commands.sql), project pdf (ER model, db schema, 2NF/3NF), video : https://youtu.be/iIyQCFEKqn0
